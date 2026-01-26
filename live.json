@@ -5,9 +5,9 @@
   "slider": [
   
   {
-    "img": "https://i.postimg.cc/tTQkV3h6/wpl.png",
+    "img": "https://i.postimg.cc/XqR6dJcy/wpl.png",
     "link": "https://filmyfly4wap.github.io/player/wpl.html",
-    "startTime": "07:30:00 PM 24-01-2026", 
+    "startTime": "07:30:00 PM 26-01-2026", 
     "durationHours": 5
   },
   
@@ -19,12 +19,18 @@
   },
 
   {
-    "img": "https://i.postimg.cc/7hxC9s98/INDvs-NZ.png",
+    "img": "https://i.postimg.cc/pTgPYqPp/INDvs-NZ.png",
     "link": "https://filmyfly4wap.github.io/player/INDvsNZ.html",
-    "startTime": "7:00:00 PM 25-01-2026", 
+    "startTime": "7:00:00 PM 28-01-2026", 
     "durationHours": 5
   },
-  
+
+  {
+    "img": "https://i.postimg.cc/Z5T4c9zD/INDvs-NZ.png",
+    "link": "https://filmyfly4wap.github.io/player/INDvsNZ.html",
+    "startTime": "7:00:00 PM 31-01-2026", 
+    "durationHours": 5
+  },
 
 
 
