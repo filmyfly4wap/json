@@ -985,29 +985,15 @@
 
 
     
-        {
-      "match_id": 83,
-      "category": "WPL",
-      "title": " 20th Match • Vadodara, BCA Stadium, Kotambi ",
-      "src": " https://i.postimg.cc/d0SqvYnt/DC.png",
-      "src_2": "https://i.postimg.cc/90m1B657/UPW.png ",
-      "team_1": " DC Women",
-      "team_2": " UPW Women",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 01-02-2026",
-      "durationHours": 5,
-      "button": " https://filmyfly4wap.github.io/player/wpl.html"
-      
-    },
-    
+        
         {
       "match_id": 84,
       "category": "WPL",
       "title": " Eliminator • Vadodara, BCA Stadium, Kotambi ",
-      "src": " https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png",
-      "src_2": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png ",
-      "team_1": " TBC ",
-      "team_2": "  TBC ",
+      "src": " https://i.postimg.cc/wMj32VWT/GG.png",
+      "src_2": "https://i.postimg.cc/d0SqvYnt/DC.png ",
+      "team_1": " GG ",
+      "team_2": "  DC ",
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 03-02-2026",
       "durationHours": 5,
@@ -1019,9 +1005,9 @@
       "match_id": 85,
       "category": "WPL",
       "title": " Eliminator • Vadodara, BCA Stadium, Kotambi ",
-      "src": " https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png",
+      "src": " https://i.postimg.cc/sgpHP9bv/rcb.png",
       "src_2": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png ",
-      "team_1": " TBC ",
+      "team_1": " RCB ",
       "team_2": " TBC ",
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 05-02-2026",
