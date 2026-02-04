@@ -5,25 +5,19 @@
   "slider": [
   
   {
-    "img": "https://i.postimg.cc/m26LQ3zP/wpl.jpg",
+    "img": "https://i.postimg.cc/R0HFvqfc/DCvs-RCB.png",
     "link": "https://filmyfly4wap.github.io/player/wpl.html",
-    "startTime": "07:30:00 PM 29-01-2026", 
+    "startTime": "07:00:00 PM 05-01-2026", 
     "durationHours": 5
   },
   
   {
-    "img": "https://i.postimg.cc/BZYkxYXL/ind.jpg",
+    "img": "https://i.postimg.cc/pL1h2g6K/u19.jpg",
     "link": "https://filmyfly4wap.github.io/player/u19wc.html",
-    "startTime": "1:00:00 PM 01-02-2026",
+    "startTime": "1:00:00 PM 04-02-2026",
     "durationHours": 8
   },
 
-  {
-    "img": "https://i.postimg.cc/pTgPYqPp/INDvs-NZ.png",
-    "link": "https://filmyfly4wap.github.io/player/INDvsNZ.html",
-    "startTime": "7:00:00 PM 28-01-2026", 
-    "durationHours": 5
-  },
 
   {
     "img": "https://i.postimg.cc/Z5T4c9zD/INDvs-NZ.png",
@@ -986,31 +980,17 @@
 
     
         
-        {
-      "match_id": 84,
-      "category": "WPL",
-      "title": " Eliminator • Vadodara, BCA Stadium, Kotambi ",
-      "src": " https://i.postimg.cc/wMj32VWT/GG.png",
-      "src_2": "https://i.postimg.cc/d0SqvYnt/DC.png ",
-      "team_1": " GG ",
-      "team_2": "  DC ",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 03-02-2026",
-      "durationHours": 5,
-      "button": " https://filmyfly4wap.github.io/player/wpl.html"
-      
-    },
-    
+        
         {
       "match_id": 85,
       "category": "WPL",
       "title": " Eliminator • Vadodara, BCA Stadium, Kotambi ",
-      "src": " https://i.postimg.cc/sgpHP9bv/rcb.png",
-      "src_2": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png ",
-      "team_1": " RCB ",
-      "team_2": " TBC ",
+      "src": "https://i.postimg.cc/d0SqvYnt/DC.png ",
+      "src_2": "https://i.postimg.cc/sgpHP9bv/rcb.png ",
+      "team_1": " DC ",
+      "team_2": " RCB ",
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 05-02-2026",
+      "startTime": "07:00:00 PM 05-02-2026",
       "durationHours": 5,
       "button": "https://filmyfly4wap.github.io/player/wpl.html"
       
