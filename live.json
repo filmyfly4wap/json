@@ -19,13 +19,7 @@
     "durationHours": 5
   },
   
-  {
-    "img": "https://i.postimg.cc/R0HFvqfc/DCvs-RCB.png",
-    "link": "https://filmyfly4wap.github.io/server/t20wc.html",
-    "startTime": "07:00:00 PM 05-02-2026", 
-    "durationHours": 5
-  },
-
+  
 
 
     
@@ -48,7 +42,7 @@
 "categories": [
     
     
-    { "id": "WPL", "title": "WPL" },
+    { "id": "U19", "title": "ICC Under 19 World Cup 2026" },
     { "id": "T20", "title": "T20 World Cup" },
     { "id": "INDWvsAUW", "title": "IND Women vs Australia Women" },
     { "id": "ipl", "title": "IPL 2026" }
@@ -982,14 +976,14 @@
         
         {
       "match_id": 85,
-      "category": "WPL",
-      "title": " Eliminator • Vadodara, BCA Stadium, Kotambi ",
-      "src": "https://i.postimg.cc/d0SqvYnt/DC.png ",
-      "src_2": "https://i.postimg.cc/sgpHP9bv/rcb.png ",
-      "team_1": " DC ",
-      "team_2": " RCB ",
+      "category": "U19",
+      "title": " Final • Harare, Harare Sports Club",
+      "src": "https://flagcdn.com/in.svg ",
+      "src_2": "https://flagcdn.com/gb-eng.svg ",
+      "team_1": "INDIA U19",
+      "team_2": " ENGLAND U19",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 05-02-2026",
+      "startTime": "01:00:00 PM 06-02-2026",
       "durationHours": 5,
       "button": "https://filmyfly4wap.github.io/server/t20wc.html"
       
