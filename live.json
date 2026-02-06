@@ -5,17 +5,11 @@
   "slider": [
 
 
-    {
-    "img": "https://i.postimg.cc/pL1h2g6K/u19.jpg",
-    "link": "https://filmyfly4wap.github.io/player/u19wc.html",
-    "startTime": "1:00:00 PM 04-02-2026",
-    "durationHours": 8
-  },
     
     {
-    "img": "https://i.postimg.cc/PqFZthhG/INDvs-RSA.png",
+    "img": "https://i.postimg.cc/VvsDYtd1/INDvs-USA.png",
     "link": "https://filmyfly4wap.github.io/server/t20wc.html",
-    "startTime": "7:00:00 PM 04-02-2026", 
+    "startTime": "7:00:00 PM 07-02-2026", 
     "durationHours": 5
   },
   
@@ -42,7 +36,7 @@
 "categories": [
     
     
-    { "id": "U19", "title": "ICC Under 19 World Cup 2026" },
+
     { "id": "T20", "title": "T20 World Cup" },
     { "id": "INDWvsAUW", "title": "IND Women vs Australia Women" },
     { "id": "ipl", "title": "IPL 2026" }
@@ -961,7 +955,7 @@
       "startTime": "11:00:00 PM 06-03-2026",
       "durationHours": 5,
       "button": " https://filmyfly4wap.github.io/player/INDWvsAUW.html"
-    },
+    }
 
 
 
@@ -974,21 +968,7 @@
     
         
         
-        {
-      "match_id": 85,
-      "category": "U19",
-      "title": " Final • Harare, Harare Sports Club",
-      "src": "https://flagcdn.com/in.svg ",
-      "src_2": "https://flagcdn.com/gb-eng.svg ",
-      "team_1": "INDIA U19",
-      "team_2": " ENGLAND U19",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 06-02-2026",
-      "durationHours": 5,
-      "button": "https://filmyfly4wap.github.io/server/t20wc.html"
-      
-    }
-
+        
 
 
     
