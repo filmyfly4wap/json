@@ -1,12 +1,8 @@
-
 {
   "name": " Live Matches",
   
   "slider": [
-
-
-    
-    {
+  {
     "img": "https://i.postimg.cc/K4S71g8w/INDvs-USA.png",
     "link": "https://filmyfly4wap.github.io/server/t20wc.html",
     "startTime": "7:00:00 PM 07-02-2026", 
@@ -14,9 +10,6 @@
   },
   
   
-
-
-    
   {
   "img": " https://i.postimg.cc/5yBRM5Vg/movie.png",
   "link": " https://filmyfly4wap.site/page-movie.html"
@@ -35,13 +28,12 @@
 
 "categories": [
     
-    
-
+   
     { "id": "T20", "title": "T20 World Cup" },
-    { "id": "INDWvsAUW", "title": "IND Women vs Australia Women" },
-    { "id": "ipl", "title": "IPL 2026" }
     
+    { "id": "INDWvsAUW", "title": "IND WOMEN vs AU WOMEN " },
     
+    { "id": "IPL", "title": "IPL 2026 " }
   ],
 
 
@@ -69,9 +61,9 @@
       "category": "T20",
       "title": " 2nd Match, Group C • Kolkata, Eden Gardens",
       "src": " https://i.postimg.cc/76DCG5dr/wi.png",
-      "src_2": "https://flagcdn.com/bd.svg ",
+      "src_2": "https://flagcdn.com/gb-sct.svg ",
       "team_1": " West Indies",
-      "team_2": " Bangladesh  ",
+      "team_2": " Scotland  ",
       "status": "UPCOMING",
       "startTime": "3:00:00 PM 07-02-2026",
       "durationHours": 4,
@@ -89,7 +81,7 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 07-02-2026",
       "durationHours": 4,
-      "button": " https://filmyfly4wap.github.io/t20wc/player3.html"
+      "button": " https://filmyfly4wap.github.io/server/t20wc.html"
     },
     
     {
@@ -137,9 +129,9 @@
     {
       "match_id": 7,
       "title": " 7th Match, Group C • Kolkata, Eden Gardens ",
-      "src": " https://flagcdn.com/bd.svg",
+      "src": " https://flagcdn.com/gb-sct.svg",
       "src_2": "https://flagcdn.com/it.svg ",
-      "team_1": " Bangladesh",
+      "team_1": " Scotland",
       "team_2": "  Italy ",
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 09-02-2026",
@@ -300,7 +292,7 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 12-02-2026",
       "durationHours": 5,
-      "button": "https://filmyfly4wap.github.io/t20wc/player3.html "
+      "button": "https://filmyfly4wap.github.io/server/t20wc.html "
     },
     
     {
@@ -368,9 +360,9 @@
       "category": "T20",
       "title": "23rd Match, Group C • Kolkata, Eden Gardens ",
       "src": " https://flagcdn.com/gb-eng.svg",
-      "src_2": "https://flagcdn.com/bd.svg ",
+      "src_2": "https://flagcdn.com/gb-sct.svg ",
       "team_1": "England ",
-      "team_2": " Bangladesh  ",
+      "team_2": " Scotland  ",
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 14-02-2026",
       "durationHours": 5,
@@ -430,7 +422,7 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 15-02-2026",
       "durationHours": 5,
-      "button": " https://filmyfly4wap.github.io/t20wc/player3.html"
+      "button": " https://filmyfly4wap.github.io/server/t20wc.html"
     },
     
     {
@@ -509,9 +501,9 @@
       "match_id": 33,
       "category": "T20",
       "title": " 33rd Match, Group C • Mumbai, Wankhede Stadium ",
-      "src": " https://flagcdn.com/bd.svg",
+      "src": " https://flagcdn.com/gb-sct.svg",
       "src_2": "https://flagcdn.com/np.svg ",
-      "team_1": "Bangladesh ",
+      "team_1": "Scotland ",
       "team_2": "Nepal   ",
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 17-02-2026",
@@ -559,7 +551,7 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 18-02-2026",
       "durationHours": 5,
-      "button": " https://filmyfly4wap.github.io/t20wc/player3.html"
+      "button": " https://filmyfly4wap.github.io/server/t20wc.html"
     },
     
     {
@@ -856,10 +848,9 @@
       "startTime": "07:00:00 PM 08-03-2026",
       "durationHours": 8,
       "button": " https://filmyfly4wap.github.io/t20wc/player3.html"
-   
     },
-
-          {
+    
+      {
       "match_id": 56,
       "category": "INDWvsAUW",
       "title": "1st T20I • Sydney, Sydney Cricket Ground",
@@ -956,26 +947,8 @@
       "durationHours": 5,
       "button": " https://filmyfly4wap.github.io/player/INDWvsAUW.html"
     }
-
-
-
-
-
-
-
-
-
-    
-        
-        
-        
-
-
     
     
-    
-    
-    
-    
-  ]
+
+    ]
 }
