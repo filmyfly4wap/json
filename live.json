@@ -3,9 +3,16 @@
   
   "slider": [
   {
-    "img": "https://i.postimg.cc/K4S71g8w/INDvs-USA.png",
+    "img": "https://i.postimg.cc/TwpzDMHv/INDvs-NA.png",
     "link": "https://filmyfly4wap.github.io/server/t20wc.html",
-    "startTime": "7:00:00 PM 07-02-2026", 
+    "startTime": "7:00:00 PM 12-02-2026", 
+    "durationHours": 5
+  },
+
+  {
+    "img": "https://i.postimg.cc/sgTH9HW7/INDvs-NED.png",
+    "link": "https://filmyfly4wap.github.io/server/t20wc.html",
+    "startTime": "7:00:00 PM 18-02-2026", 
     "durationHours": 5
   },
   
