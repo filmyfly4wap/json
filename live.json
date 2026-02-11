@@ -4,14 +4,23 @@
   "slider": [
   {
     "img": "https://i.postimg.cc/TwpzDMHv/INDvs-NA.png",
-    "link": "https://filmyfly4wap.github.io/server/t20wc.html",
+    "link": "http://cricketlive.site/page-t20wc.html",
     "startTime": "7:00:00 PM 12-02-2026", 
     "durationHours": 5
   },
 
   {
+    "img": "https://i.postimg.cc/V6QHz83Y/INDvs-PAK.png",
+    "link": "http://cricketlive.site/page-t20wc.html",
+    "startTime": "7:00:00 PM 15-02-2026", 
+    "durationHours": 5
+  },
+
+
+    
+  {
     "img": "https://i.postimg.cc/sgTH9HW7/INDvs-NED.png",
-    "link": "https://filmyfly4wap.github.io/server/t20wc.html",
+    "link": "http://cricketlive.site/page-t20wc.html",
     "startTime": "7:00:00 PM 18-02-2026", 
     "durationHours": 5
   },
