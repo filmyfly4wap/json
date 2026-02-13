@@ -1,0 +1,33 @@
+{
+  "defaultId": "hindi2",
+
+  "channels": [
+    {
+      "id": "hindi1",
+      "stream": "https://filmyfly4wap.github.io/ind/hindi1.html",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
+      "category": "Cricket",
+      "language": "Hindi 1",
+      "label": "Hindi 1 Live Now"
+    },
+    {
+      "id": "hindi2",
+      "stream": "https://filmyfly4wap.github.io/ind/hindi2.html",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/P50B4B1z/hindi2.png",
+      "category": "Cricket",
+      "language": "Hindi 2",
+      "label": "Hindi 2 Live Now"
+    },
+    {
+      "id": "eng1",
+      "stream": "https://filmyfly4wap.github.io/ind/eng1.html",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
+      "category": "Cricket",
+      "language": "English 1",
+      "label": "English 1 Live Now"
+    }
+  ]
+}
