@@ -1,5 +1,5 @@
 {
-  "defaultId": "hindi2",
+  "defaultId": "English2",
 
   "channels": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "id": "English2",
-      "stream": "https://filmyfly4wap.github.io/ind/eng2.html",
+      "stream": "https://paste.fledding.com/~Willow.html",
       "name": "T20 World Cup 2026",
       "logo": "https://i.postimg.cc/cLPVmVfh/english2.png",
       "category": "Cricket",
