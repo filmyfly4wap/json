@@ -17,6 +17,17 @@
     },
 
     {
+      "id": "hindi1",
+      "stream": "https://filmyfly4wap.github.io/ind/?id=hindi1",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/P50B4B1z/hindi2.png",
+      "category": "Cricket",
+      "language": "Hindi 2",
+      "label": "Hindi 2 Live Now"
+    },
+    
+
+    {
       "id": "English1",
       "stream": "https://filmyfly4wap.github.io/ind/eng1.html",
       "name": "T20 World Cup 2026",
