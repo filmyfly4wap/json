@@ -40,7 +40,7 @@ position: absolute;
 z-index: 40; 
 pointer-events: none; 
 top: 65%; 
-left: 6%; 
+left: 10%; 
 transform: translateY(-50%); 
 font-size: 11px; 
 font-weight: 600; 
@@ -69,7 +69,7 @@ color: rgba(255, 255, 255, 0.12);
 <body>
 <div class="shaka-video-container" data-shaka-player>
 <video autoplay playsinline preload="metadata"></video>
-<div class="custom-watermark">official ™</div>
+<div class="custom-watermark">cricketlive.site</div>
 </div>
 <script>
   document.addEventListener('DOMContentLoaded', async () => {
@@ -89,7 +89,7 @@ color: rgba(255, 255, 255, 0.12);
     try {
       const [chanRes, cookRes] = await Promise.all([
         fetch('https://raw.githubusercontent.com/filmyfly4wap/json/refs/heads/main/active.json'),
-        fetch('https://raw.githubusercontent.com/24sports-net/cookie-updater/refs/heads/main/cookie.json')
+        fetch('https://raw.githubusercontent.com/filmyfly4wap/cricket/refs/heads/main/cookie.json')
       ]);
       
       const channels = await chanRes.json();
