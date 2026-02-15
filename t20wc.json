@@ -1,0 +1,57 @@
+{
+  "defaultId": "hindi1",
+
+  "notice": "🇮🇳 भारत vs पाकिस्तान🇵🇰 आज शाम 6:00 pm बजे प्रेमदासा स्टेडियम कोलंबो   ⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
+
+
+
+  "channels": [
+    {
+      "id": "hindi1",
+      "stream": "https://filmyfly4wap.github.io/ind/?id=hindi1",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
+      "category": "Cricket",
+      "language": "Hindi 1",
+      "label": "Hindi 1 Live Now"
+    },
+    
+    {
+      "id": "English1",
+      "stream": "https://filmyfly4wap.github.io/ind/?id=eng1",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
+      "category": "Cricket",
+      "language": "English 1",
+      "label": "English 1 Live Now"
+    },
+    
+    {
+      "id": "Telugu",
+      "stream": "https://filmyfly4wap.github.io/ind?id=telugu",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/MpghDh1r/telugu.png",
+      "category": "Cricket",
+      "language": "Telugu",
+      "label": "Telugu Live Now"
+    },
+    {
+      "id": "Tamil",
+      "stream": "https://filmyfly4wap.github.io/ind?id=tamil",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/4xjr5rpw/tamil.png",
+      "category": "Cricket",
+      "language": "Tamil",
+      "label": "Tamil Live Now"
+    },
+    {
+      "id": "Kannada",
+      "stream": "https://filmyfly4wap.github.io/ind?id=kannada",
+      "name": "T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/HkFf2fbh/kannada.png",
+      "category": "Cricket",
+      "language": "Kannada",
+      "label": "Kannada Live Now"
+    }
+  ]
+}
