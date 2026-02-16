@@ -1,7 +1,7 @@
 {
-  "defaultId": "English1",
+  "defaultId": " ",
 
-  "notice": "🇮🇳 भारत vs 🇵🇰 पाकिस्तान आज शाम 6:00 pm बजे प्रेमदासा स्टेडियम कोलंबो   ⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
+  "notice": "⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
 
 
 
@@ -9,7 +9,7 @@
     
     {
       "id": "English1",
-      "stream": "https://filmyfly4wap.github.io/ind/?id=indvsauw1",
+      "stream": "",
       "name": "INDIA WOMEN vs AUSTRALIA WOMEN",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -18,7 +18,7 @@
     },
     {
       "id": "English2",
-      "stream": "https://filmyfly4wap.github.io/ind/?id=indvspak",
+      "stream": "",
       "name": "INDIA vs PAKISTAN ASIA CUP WOMEN",
       "logo": "https://i.postimg.cc/cLPVmVfh/english2.png",
       "category": "Cricket",
