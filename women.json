@@ -1,5 +1,5 @@
 {
-  "defaultId": " ",
+  "defaultId": "English2",
 
   "notice": "⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
 
@@ -7,22 +7,14 @@
 
   "channels": [
     
-    {
-      "id": "English1",
-      "stream": "",
-      "name": "INDIA WOMEN vs AUSTRALIA WOMEN",
-      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
-      "category": "Cricket",
-      "language": "English",
-      "label": "INDIA WOMEN vs AUSTRALIA WOMEN"
-    },
+    
     {
       "id": "English2",
       "stream": "",
-      "name": "INDIA vs PAKISTAN ASIA CUP WOMEN",
+      "name": "INDIA vs Nepal ASIA CUP WOMEN",
       "logo": "https://i.postimg.cc/cLPVmVfh/english2.png",
       "category": "Cricket",
-      "language": "Hindi",
+      "language": "English",
       "label": "INDIA vs PAKISTAN ASIA CUP WOMEN"
     }
     
