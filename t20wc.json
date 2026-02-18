@@ -1,5 +1,5 @@
 {
-  "defaultId": "hindi1",
+  "defaultId": "prime-hindi",
 
   "notice": "⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
 
@@ -8,11 +8,11 @@
   "channels": [
     {
       "id": "hindi1",
-      "stream": "https://filmyfly4wap.github.io/play/?id=hindi1",
+      "stream": "https://filmyfly4wap.github.io/play/?id=prime-hindi",
       "name": "T20 World Cup 2026",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
-      "language": "Hindi 1",
+      "language": "Ad free Hindi 1",
       "label": "Hindi 1 Live Now"
     },
     
