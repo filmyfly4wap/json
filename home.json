@@ -35,13 +35,15 @@
     },
     {
       "id": "English2",
-      "stream": "https://filmyfly4wap.github.io/play/?id=eng2",
+      "stream": "https://filmyfly4wap.github.io/play/prime-hindi.html?id=eng2",
       "name": "T20 World Cup 2026",
       "logo": "https://i.postimg.cc/cLPVmVfh/english2.png",
       "category": "Cricket",
       "language": "English 2",
       "label": "English 2 Live Now"
     },
+
+    
     {
       "id": "Telugu",
       "stream": "https://filmyfly4wap.github.io/play?id=telugu",
