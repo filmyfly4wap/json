@@ -8,68 +8,22 @@
   "channels": [
     {
       "id": "hindi1",
-      "stream": "https://filmyfly4wap.github.io/play/?id=hindi1",
+      "stream": "https://all-in-one-channel.pages.dev/MANUALLY/SS1H/?id=hindi1",
       "name": "T20 World Cup 2026",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
       "language": "Hindi 1",
       "label": "Hindi 1 Live Now"
     },
-    {
-      "id": "hindi2",
-      "stream": "https://filmyfly4wap.github.io/play/?id=hindi2",
-      "name": "T20 World Cup 2026",
-      "logo": "https://i.postimg.cc/P50B4B1z/hindi2.png",
-      "category": "Cricket",
-      "language": "Hindi 2",
-      "label": "Hindi 2 Live Now"
-    },
+    
     {
       "id": "English1",
-      "stream": "https://filmyfly4wap.github.io/play/?id=eng1",
+      "stream": "https://all-in-one-channel.pages.dev/MANUALLY/SS1/?id=eng1",
       "name": "T20 World Cup 2026",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "English 1",
       "label": "English 1 Live Now"
-    },
-    {
-      "id": "English2",
-      "stream": "https://filmyfly4wap.github.io/play/?id=eng2",
-      "name": "T20 World Cup 2026",
-      "logo": "https://i.postimg.cc/cLPVmVfh/english2.png",
-      "category": "Cricket",
-      "language": "English 2",
-      "label": "English 2 Live Now"
-    },
-
-    
-    {
-      "id": "Telugu",
-      "stream": "https://filmyfly4wap.github.io/play?id=telugu",
-      "name": "T20 World Cup 2026",
-      "logo": "https://i.postimg.cc/MpghDh1r/telugu.png",
-      "category": "Cricket",
-      "language": "Telugu",
-      "label": "Telugu Live Now"
-    },
-    {
-      "id": "Tamil",
-      "stream": "https://filmyfly4wap.github.io/play?id=tamil",
-      "name": "T20 World Cup 2026",
-      "logo": "https://i.postimg.cc/4xjr5rpw/tamil.png",
-      "category": "Cricket",
-      "language": "Tamil",
-      "label": "Tamil Live Now"
-    },
-    {
-      "id": "Kannada",
-      "stream": "https://filmyfly4wap.github.io/play?id=kannada",
-      "name": "T20 World Cup 2026",
-      "logo": "https://i.postimg.cc/HkFf2fbh/kannada.png",
-      "category": "Cricket",
-      "language": "Kannada",
-      "label": "Kannada Live Now"
     }
   ]
 }
