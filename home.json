@@ -17,18 +17,6 @@
     },
 
     {
-      "id": "hindi2",
-      "stream_before": "https://filmyfly4wap.github.io/ipl/?id=hindi1",
-      "stream_after": "https://filmyfly4wap.github.io/play/?id=tnt2",
-      "switch_time": "2026-03-16T18:40:00",
-      "name": "IPL 2026",
-      "logo": "https://filmyfly4wap.github.io/play/?id=hindi2",
-      "category": "Cricket",
-      "language": "Hindi 2",
-      "label": "Hindi 2 Live Now"
-    },
-    
-    {
       "id": "English1",
       "stream": "https://filmyfly4wap.github.io/ipl/?id=eng1",
       "name": "IPL 2026",
