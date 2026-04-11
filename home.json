@@ -8,7 +8,7 @@
   "channels": [
     {
       "id": "hindi1",
-      "stream": "https://filmyfly4wap.github.io/live/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd&keyId=400131994b445d8c8817202248760fda&key=2d56cb6f07a75b9aff165d534ae2bfc4/?id=hindi1",
+      "stream": "https://tvgotk.wapka.fun/hindi/?id=hindi1",
       "name": "IPL 2026",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
@@ -19,7 +19,7 @@
 
     {
       "id": "English1",
-      "stream": "https://filmyfly4wap.github.io/live/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd&keyId=965dc2ddb1d85138ad787999a7f30ca5&key=859695076e67fe961836b564db6d689c/?id=eng1",
+      "stream": "https://tvgotk.wapka.fun/english/?id=eng1",
       "name": "IPL 2026",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
