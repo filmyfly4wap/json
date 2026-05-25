@@ -1023,8 +1023,63 @@
      "startTime": "07:30:00 PM 24-05-2026",
      "durationHours": 5,
      "button": "https://cricketlive.wapact.com/page-ipl.html/"
-   }
+   },
 
+   {
+     "match_id": 71,
+     "category": "IPL",
+     "title": " Qualifier 1 • Dharamsala, Himachal Pradesh Cricket Association Stadium",
+     "src": "https://i.postimg.cc/SRH4DK0b/gt.png",
+     "src_2": "https://i.postimg.cc/k41qRcfb/rcb.png ",
+     "team_1": "GT",
+     "team_2": "RCB",
+     "status": "UPCOMING",
+     "startTime": "07:30:00 PM 26-05-2026 ",
+     "durationHours": 5,
+     "button": "http://cricketlive.site/page-ipl.html"
+   },
+   
+   {
+     "match_id": 72,
+     "category": "IPL",
+     "title": " Eliminator • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+     "src": "https://i.postimg.cc/sxbzwgkH/srh.jpg ",
+     "src_2": "https://i.postimg.cc/6qFKYpkm/rr.png",
+     "team_1": "SRH",
+     "team_2": "RR",
+     "status": "UPCOMING",
+     "startTime": " 07:30:00 PM 27-05-2026",
+     "durationHours": 5,
+     "button": "http://cricketlive.site/page-ipl.html"
+   },
+   
+   {
+     "match_id": 73,
+     "category": "IPL",
+     "title": " Qualifier 2 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+     "src": "https://i.postimg.cc/MT7RG267/TBC.png",
+     "src_2": "https://i.postimg.cc/MT7RG267/TBC.png",
+     "team_1": "TBC",
+     "team_2": "TBC",
+     "status": "UPCOMING",
+     "startTime": " 03:30:00 PM 24-05-2026",
+     "durationHours": 5,
+     "button": "http://cricketlive.site/page-ipl.html"
+   },
+   
+   {
+     "match_id": 74,
+     "category": "IPL",
+     "title": "Final • Ahmedabad, Narendra Modi Stadium",
+     "src": "https://i.postimg.cc/MT7RG267/TBC.png",
+     "src_2": "https://i.postimg.cc/MT7RG267/TBC.png",
+     "team_1": "TBC",
+     "team_2": "TBC",
+     "status": "UPCOMING",
+     "startTime": " ",
+     "durationHours": 7,
+     "button": "http://cricketlive.site/page-ipl.html"
+   }
 
   ]
 }
