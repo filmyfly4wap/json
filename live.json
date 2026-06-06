@@ -40,7 +40,7 @@
 
   "categories": [
     
-    { "id": "INDvsENG", "title": "India vs England" }
+    { "id": "INDvAFG", "title": "India vs Afghanistan" }
   ],
   
   "matches": [
@@ -66,11 +66,11 @@
       "category": "INDvsAFG",
       "title": "1st ODI • Dharamsala, Himachal Pradesh Cricket Association Stadium",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": " https://flagcdn.com/af.svg",
+      "src_2": "https://flagcdn.com/af.svg",
       "team_1": "India",
       "team_2": "Afghanistan",
       "status": "UPCOMING",
-      "startTime": " 01:30:00 PM 13-06-2026",
+      "startTime": "01:30:00 PM 13-06-2026",
       "durationHours": 5,
       "button": "http://cricketlive.site/page-live.html"
     },
@@ -84,7 +84,7 @@
       "team_2": "Afghanistan",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 17-06-2026",
-      "durationHours": 5,
+      "durationHours":5,
       "button": "http://cricketlive.site/page-live.html"
     },
     
@@ -97,7 +97,7 @@
       "team_1": "India",
       "team_2": "Afghanistan",
       "status": "UPCOMING",
-      "startTime": " 01:30:00 PM 20-06-2026",
+      "startTime": "01:30:00 PM 20-06-2026",
       "durationHours": 5,
       "button": "http://cricketlive.site/page-live.html"
     }
