@@ -1,1 +1,30 @@
 
+{
+  "defaultId": "hindi",
+
+  "notice": "⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
+
+
+
+  "channels": [
+    {
+      "id": "hindi",
+      "stream": "https://filmyfly4wap.github.io/play/ind-vs-eng-hindi.html",
+      "name": "India vs England",
+      "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
+      "category": "Cricket",
+      "language": "Hindi",
+      "label": "Hindi Live Now"
+    },
+    
+    {
+      "id": "English",
+      "stream": "https://filmyfly4wap.github.io/play/ind-vs-eng-English.html",
+      "name": "India vs England",
+      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
+      "category": "Cricket",
+      "language": "English",
+      "label": "English Live Now"
+    }
+  ]
+}
