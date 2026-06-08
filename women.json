@@ -1,22 +1,29 @@
 {
-  "defaultId": "sony",
+  "defaultId": "hindi",
 
   "notice": "⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
 
 
 
   "channels": [
-    
-    
     {
-      "id": "sony",
-      "stream": "https://filmyfly4wap.github.io/play/?id=sony",
-      "name": "INDIA vs Sri Lanka ASIA CUP WOMEN",
-      "logo": "https://i.postimg.cc/cLPVmVfh/english2.png",
+      "id": "hindi",
+      "stream": "https://filmyfly4wap.github.io/play/Women-t20wc-hindi.html",
+      "name": "Womens T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
       "language": "Hindi",
-      "label": "INDIA vs Sri Lanka ASIA CUP WOMEN"
-    }
+      "label": "Hindi Live Now"
+    },
     
+    {
+      "id": "English",
+      "stream": "https://filmyfly4wap.github.io/play/Women-t20wc-English.html",
+      "name": "Womens T20 World Cup 2026",
+      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
+      "category": "Cricket",
+      "language": "English",
+      "label": "English Live Now"
+    }
   ]
 }
