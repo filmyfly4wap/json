@@ -40,10 +40,11 @@
   
   "categories": 
   [
-    { "id": "INDvsENG", "title": "India vs England" },
+    
     { 
       "id": "T20", "title":" Women T20 World Cup " 
-    }
+    },
+    { "id": "INDvsENG", "title": "India vs England" }
   ],
 
 
@@ -599,21 +600,21 @@
       "team_2": "England",
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 14-07-2026",
-      "durationHours": 5,
+      "durationHours":8,
       "button": "http://cricketlive.wapact.com/page-ind-vs-eng.html"
     },
 
     {
       "match_id":40,
-      "category": " INDvsENG",
+      "category": "INDvsENG",
       "title": "2nd ODI • Cardiff, Sophia Gardens",
-      "src": "https://flagcdn.com/in.svg ",
+      "src": "https://flagcdn.com/in.svg",
       "src_2": "https://flagcdn.com/gb-eng.svg",
       "team_1": "India",
-      "team_2": "  England",
+      "team_2": "England",
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 16-07-2026",
-      "durationHours": 5,
+      "durationHours":8,
       "button": "http://cricketlive.wapact.com/page-ind-vs-eng.html"
     },
 
@@ -621,13 +622,13 @@
       "match_id":41,
       "category": "INDvsENG",
       "title": "3rd ODI • London, Lord's",
-      "src": "https://flagcdn.com/in.svg ",
-      "src_2": " https://flagcdn.com/gb-eng.svg",
+      "src": "https://flagcdn.com/in.svg",
+      "src_2": "https://flagcdn.com/gb-eng.svg",
       "team_1": "India",
       "team_2": "England",
       "status": "UPCOMING",
-      "startTime": " 03:30:00 PM 19-07-2026",
-      "durationHours": 5,
+      "startTime": "03:30:00 PM 19-07-2026",
+      "durationHours":8,
       "button": "http://cricketlive.wapact.com/page-ind-vs-eng.html"
     }
     
