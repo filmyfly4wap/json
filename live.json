@@ -447,15 +447,15 @@
     {
       "match_id": 29,
       "category": "T20",
-      "title": "29th Match, Group A • London, Lord's",
-      "src": " https://flagcdn.com/za.svg",
-      "src_2": " https://flagcdn.com/bd.svg",
-      "team_1": "South Africa Women",
-      "team_2": "Bangladesh Women",
+      "title": "2nd T20I, India tour of Ireland, 2026",
+      "src": " https://flagcdn.com/in.svg",
+      "src_2": " https://flagcdn.com/ie.svg",
+      "team_1": "India",
+      "team_2": "Ireland",
       "status": "UPCOMING",
-      "startTime": "03:00:00 PM 28-06-2026",
+      "startTime": "06:30:00 PM 28-06-2026",
       "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-t20wc.html"
+      "button": "http://cricketlive.wapact.com/page-india-vs-ireland.html"
     },
     
     
