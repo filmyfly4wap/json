@@ -4,7 +4,8 @@
 
 "categories": [
 
-{ "id": "INDvsSRI", "title": "India vs England" }
+{ "id": "INDvsSRI", "title": "India vs Sri Lanka" },
+{ "id": "INDvsZW", "title": "India vs Zimbabwe" }
 ],
 
 "matches": [
@@ -14,7 +15,7 @@
 {
 "match_id":9,
 "category": "INDvsSRI",
-"title": "1st T20I • Chester-le-Street, Riverside Ground",
+"title": "1st unofficial ODI • Hambantota, Mahinda Rajapaksa International Stadium",
 "src": "https://flagcdn.com/in.svg",
 "src_2": "https://flagcdn.com/lk.svg",
 "team_1": "India U19",
@@ -28,7 +29,7 @@
 {
 "match_id":10,
 "category": "INDvsSRI",
-"title": "2nd T20I • Manchester, Emirates Old Trafford",
+"title": "2nd unofficial ODI • Hambantota, Mahinda Rajapaksa International Stadium",
 "src": "https://flagcdn.com/in.svg",
 "src_2": "https://flagcdn.com/lk.svg",
 "team_1": "India U19",
@@ -42,7 +43,7 @@
 {
 "match_id":11,
 "category": "INDvsSRI",
-"title": "3rd T20I • Nottingham, Trent Bridge",
+"title": "3rd unofficial ODI • Hambantota, Mahinda Rajapaksa International Stadium",
 "src": "https://flagcdn.com/in.svg",
 "src_2": "https://flagcdn.com/lk.svg",
 "team_1": "India U19",
@@ -56,7 +57,7 @@
 {
 "match_id":12,
 "category": "INDvsSRI",
-"title": "4th T20I • Bristol, County Ground",
+"title": "1st unofficial Test • Galle, Galle International Stadium",
 "src": "https://flagcdn.com/in.svg",
 "src_2": "https://flagcdn.com/lk.svg",
 "team_1": "India U19",
@@ -70,7 +71,7 @@
 {
 "match_id":13,
 "category": "INDvsSRI",
-"title": "5th T20I • Southampton, The Rose Bowl",
+"title": "2nd unofficial Test • Galle, Galle International Stadium",
 "src": "https://flagcdn.com/in.svg",
 "src_2": "https://flagcdn.com/lk.svg",
 "team_1": "India U19",
@@ -79,6 +80,52 @@
 "startTime": "09:30:00 PM 20-07-2026",
 "durationHours": 5,
 "button": "http://cricketlive.wapact.com/page-india-vs-srilanka.html"
+},
+
+{
+"match_id":14,
+"category": "INDvsZW",
+"title": "1st T20I • Harare, Harare Sports Club",
+"src": "https://flagcdn.com/in.svg",
+"src_2": "https://flagcdn.com/zw.svg",
+"team_1": "India",
+"team_2": "Zimbabwe",
+"status": "UPCOMING",
+"startTime": "04:30:00 PM 23-07-2026",
+"durationHours": 5,
+"button": "http://cricketlive.wapact.com/page-india-vs-Zimbabwe.html"
+},
+
+{
+"match_id":15,
+"category": "INDvsZW",
+"title": "2nd T20I • Harare, Harare Sports Club",
+"src": "https://flagcdn.com/in.svg",
+"src_2": "https://flagcdn.com/zw.svg",
+"team_1": "India",
+"team_2": "Zimbabwe",
+"status": "UPCOMING",
+"startTime": "04:30:00 PM 25-07-2026",
+"durationHours": 5,
+"button": "http://cricketlive.wapact.com/page-india-vs-Zimbabwe.html"
+},
+
+{
+"match_id":16,
+"category": "INDvsZW",
+"title": "3rd T20I • Harare, Harare Sports Club",
+"src": "https://flagcdn.com/in.svg",
+"src_2": "https://flagcdn.com/zw.svg",
+"team_1": "India",
+"team_2": "Zimbabwe",
+"status": "UPCOMING",
+"startTime": "04:30:00 PM 26-07-2026",
+"durationHours": 5,
+"button": "http://cricketlive.wapact.com/page-india-vs-Zimbabwe.html"
 }
+
+
+
+
 ]
 }
