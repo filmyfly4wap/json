@@ -9,8 +9,8 @@
   "channels": [
     {
       "id": "hindi",
-      "stream": "https://filmyfly4wap.github.io/play/India-vs-Ireland-hindi.html",
-      "name": "India vs England",
+      "stream": "https://filmyfly4wap.github.io/play/India-vs-srilanka-hindi.html",
+      "name": "India U19 vs Sri Lanka U19",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
       "language": "Hindi",
@@ -19,8 +19,8 @@
     
     {
       "id": "English",
-      "stream": "https://filmyfly4wap.github.io/play/India-vs-Ireland-english.html.html",
-      "name": "India vs England",
+      "stream": "https://filmyfly4wap.github.io/play/India-vs-srilanka.html",
+      "name": "India U19 vs Sri Lanka U19",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "English",
