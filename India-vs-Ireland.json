@@ -9,7 +9,7 @@
   "channels": [
     {
       "id": "hindi",
-      "stream": "https://filmyfly4wap.github.io/play/ind-vs-eng-hindi.html",
+      "stream": "https://filmyfly4wap.github.io/play/India-vs-Ireland-hindi.html",
       "name": "India vs England",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
@@ -19,7 +19,7 @@
     
     {
       "id": "English",
-      "stream": "https://filmyfly4wap.github.io/play/ind-vs-eng-English.html",
+      "stream": "https://filmyfly4wap.github.io/play/India-vs-Ireland-english.html.html",
       "name": "India vs England",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
