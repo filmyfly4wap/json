@@ -1,1 +1,60 @@
 
+{
+  "defaultId": "English",
+  
+  "notice": "⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
+  
+  
+  
+  "channels": [
+    {
+      "id": "ds",
+      "stream": "https://filmyfly4wap.github.io/play/fifa-play.html?id=DS",
+      "name": "Portugal vs Spain",
+      "logo": "https://i.postimg.cc/pXTndmK6/ds.png",
+      "category": "football",
+      "language": "English",
+      "label": "D Sports Live Now"
+    },
+    
+    {
+  "id": "tnd",
+  "stream": "https://filmyfly4wap.github.io/play/fifa-play.html?id=TNS",
+  "name": "Portugal vs Spain",
+  "logo": "https://i.postimg.cc/vHB6m45j/tns.jpg",
+  "category": "football",
+  "language": "English",
+  "label": "TND Live Now"
+},
+
+{
+  "id": "caze",
+  "stream": "https://filmyfly4wap.github.io/play/fifa-play.html?id=Caze",
+  "name": "Portugal vs Spain",
+  "logo": "https://i.postimg.cc/zXBRfyT4/caze.png",
+  "category": "football",
+  "language": "English",
+  "label": "Caze tv Live Now"
+},
+
+{
+  "id": "wc",
+  "stream": "https://filmyfly4wap.github.io/play/fifa-play.html?id=WC",
+  "name": "Portugal vs Spain",
+  "logo": "https://i.postimg.cc/yYdSND0w/wc.jpg",
+  "category": "Cricket",
+  "language": "English",
+  "label": "WC Tv Live Now"
+},
+    
+{
+  "id": "fox",
+  "stream": "https://filmyfly4wap.github.io/play/fifa-play.html?id=FOX",
+  "name": "Portugal vs Spain",
+  "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
+  "category": "Cricket",
+  "language": "English",
+  "label": "Fox Live Now"
+}
+  ]
+}
