@@ -40,8 +40,7 @@
 
   "categories": [
   
-  { "id": "INDvsENG", "title": "India vs England" },
-{ "id": "INDvsZW", "title": "India vs Zimbabwe" }
+  { "id": "INDvsSRI", "title": "India vs Sri Lanka" }
 
   
 ],
@@ -51,31 +50,31 @@
     
     
     {
-      "match_id":1,
-      "category": "INDvsENG",
-      "title": "1st T20I • Chester-le-Street, Riverside Ground",
+      "match_id": 1,
+      "category": "INDvsSRI",
+      "title": "1st Test • Galle, Galle International Stadium",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/gb-eng.svg",
+      "src_2": "https://flagcdn.com/lk.svg",
       "team_1": "India",
-      "team_2": "England",
+      "team_2": "Sri Lanka",
       "status": "UPCOMING",
-      "startTime": "10:00:00 PM 01-07-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-england.html"
+      "startTime": "10:00:00 AM 15-08-2026",
+      "durationHours": 8,
+      "button": "http://cricketlive.wapact.com/page-india-vs-srilanka.html"
     },
-
+    
     {
-      "match_id":2,
-      "category": "INDvsENG",
-      "title": "2nd T20I • Manchester, Emirates Old Trafford",
+      "match_id": 2,
+      "category": "INDvsSRI",
+      "title": "2nd Test • Colombo, Sinhalese Sports Club",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/gb-eng.svg",
+      "src_2": "https://flagcdn.com/lk.svg",
       "team_1": "India",
-      "team_2": "England",
+      "team_2": "Sri Lanka",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 04-07-2026",
+      "startTime": "10:00:00 PM 23-08-2026",
       "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-england.html"
+      "button": "http://cricketlive.wapact.com/page-india-vs-srilanka.html"
     },
 
     {
