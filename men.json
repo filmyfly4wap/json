@@ -8,8 +8,8 @@
   "channels": [
     {
       "id": "hindi",
-      "stream": "https://twitcasting.tv/g:107421087204174714661/embeddedplayer/live",
-      "name": "India vs England",
+      "stream": "https://filmyfly4wap.github.io/play/?id=TEST",
+      "name": "India vs Srilanka",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
       "language": "Hindi",
@@ -18,8 +18,8 @@
     
     {
       "id": "English",
-      "stream": "https://sayancdn02.pages.dev/p1/?url=https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
-      "name": "India vs England",
+      "stream": "https://filmyfly4wap.github.io/play/?id=TEST",
+      "name": "India vs Srilanka",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "English",
