@@ -52,13 +52,13 @@
     {
       "match_id": 1,
       "category": "INDvsSRI",
-      "title": "1st Test • Galle, Galle International Stadium",
+      "title": "1st Test • 3 Day • Galle, Galle International Stadium",
       "src": "https://flagcdn.com/in.svg",
       "src_2": "https://flagcdn.com/lk.svg",
       "team_1": "India",
       "team_2": "Sri Lanka",
       "status": "UPCOMING",
-      "startTime": "10:00:00 AM 15-08-2026",
+      "startTime": "10:00:00 AM 17-08-2026",
       "durationHours": 8,
       "button": "http://cricketlive.wapact.com/page-india-vs-srilanka.html"
     },
