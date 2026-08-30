@@ -30,10 +30,20 @@
       "id": "Tamil",
       "stream": "https://filmyfly4wap.github.io/play/?id=STENT",
       "name": "Women's Asia Cup 2026",
-      "logo": "https://i.postimg.cc/90kMfyrJ/tamil.png",
+      "logo": "https://i.postimg.cc/nLKNcZCK/tamil.png",
       "category": "Cricket",
       "language": "Tamil",
       "label": "Tamil Live Now"
+    },
+
+    {
+      "id": "Telugu",
+      "stream": "https://filmyfly4wap.github.io/play/?id=STENTU",
+      "name": "Women's Asia Cup 2026",
+      "logo": "https://i.postimg.cc/KzZw1VMd/Telgu.png",
+      "category": "Cricket",
+      "language": "Telugu",
+      "label": "Telugu Live Now"
     }
   ]
 }
