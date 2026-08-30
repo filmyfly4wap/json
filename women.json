@@ -24,6 +24,16 @@
       "category": "Cricket",
       "language": "English",
       "label": "English Live Now"
+    },
+
+    {
+      "id": "Tamil",
+      "stream": "https://filmyfly4wap.github.io/play/?id=STENT",
+      "name": "Women's Asia Cup 2026",
+      "logo": "https://i.postimg.cc/90kMfyrJ/tamil.png",
+      "category": "Cricket",
+      "language": "Tamil",
+      "label": "Tamil Live Now"
     }
   ]
 }
