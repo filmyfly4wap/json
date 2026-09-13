@@ -8,7 +8,7 @@
   "channels": [
     {
       "id": "hindi",
-      "stream": "https://filmyfly4wap.github.io/play/women.html?id=STEN3",
+      "stream": "https://filmyfly4wap.github.io/play/w-hindi.html",
       "name": "Women's Asia Cup 2026",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
@@ -18,32 +18,12 @@
     
     {
       "id": "English",
-      "stream": "https://filmyfly4wap.github.io/play/women.html?id=STEN1",
+      "stream": "https://filmyfly4wap.github.io/play/w-english.html",
       "name": "Women's Asia Cup 2026",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "English",
       "label": "English Live Now"
-    },
-
-    {
-      "id": "Tamil",
-      "stream": "https://filmyfly4wap.github.io/play/women.html?id=STENT",
-      "name": "Women's Asia Cup 2026",
-      "logo": "https://i.postimg.cc/nLKNcZCK/tamil.png",
-      "category": "Cricket",
-      "language": "Tamil",
-      "label": "Tamil Live Now"
-    },
-
-    {
-      "id": "Telugu",
-      "stream": "https://filmyfly4wap.github.io/play/women.html?id=STENTU",
-      "name": "Women's Asia Cup 2026",
-      "logo": "https://i.postimg.cc/KzZw1VMd/Telgu.png",
-      "category": "Cricket",
-      "language": "Telugu",
-      "label": "Telugu Live Now"
     }
   ]
 }
