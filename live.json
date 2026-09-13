@@ -3,17 +3,17 @@
   
   "slider": [
     {
-      "img": "https://i.postimg.cc/g2YDpbjK/ind.png",
-      "link": "http://cricketlive.site/page-women.html",
-      "startTime": "12:30:00 PM 22-02-2026",
+      "img": "https://i.postimg.cc/50k6BgfJ/ind-vs-afg.png",
+      "link": "http://cricketlive.wapact.com/page-india-vs-afganistan.html",
+      "startTime": "07:00:00 PM 13-09-2026",
       "durationHours": 5
     },
     
     {
-      "img": "https://i.postimg.cc/G2w9ckwr/INDvs-NZ.png",
-      "link": "https://cricketlive.site/page-final-t20wc.html",
-      "startTime": "6:30:00 PM 08-03-2026",
-      "durationHours": 8
+      "img": "https://i.postimg.cc/dV8kbG9K/ind-vs-sl.png",
+      "link": "http://cricketlive.wapact.com/page-women-asia-cup-final.html",
+      "startTime": "7:30:00 PM 13-09-2026",
+      "durationHours": 6
     },
     
     
@@ -22,8 +22,8 @@
     
     
     {
-      "img": "https://i.postimg.cc/5yBRM5Vg/movie.png",
-      "link": "http://cricketlive.wapact.com/page-movie.html"
+      "img": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/about.png",
+      "link": "http://cricketlive.wapact.com/page-music.html"
       
     },
     
@@ -50,214 +50,17 @@
   
   "matches": [
     {
-      "match_id": 1,
-      "category": "WAC",
-      "title": "Match 1, Group A • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/th.svg",
-      "src_2": "https://flagcdn.com/cn.svg",
-      "team_1": "Thailand Women",
-      "team_2": "Hong Kong, China Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 28-08-2026",
-      "durationHours": 4,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
-      "match_id": 2,
-      "category": "WAC",
-      "title": "Match 2, Group B • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/lk.svg",
-      "src_2": "https://flagcdn.com/ae.svg",
-      "team_1": "Sri Lanka Women",
-      "team_2": "United Arab Emirates Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 29-08-2026",
-      "durationHours": 4,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
-      "match_id": 3,
-      "category": "WAC",
-      "title": "Match 3, Group A • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/th.svg",
-      "team_1": "India Women",
-      "team_2": "Thailand Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 30-08-2026",
-      "durationHours": 4,
-      "button": "https://filmyfly4wap.github.io/server/women-asia-cup.html"
-    },
-
-    {
-      "match_id": 4,
-      "category": "WAC",
-      "title": "Match 4, Group B • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/bd.svg",
-      "src_2": "https://flagcdn.com/id.svg",
-      "team_1": "Bangladesh Women",
-      "team_2": "Indonesia Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 31-08-2026",
-      "durationHours": 4,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html "
-    },
-
-    {
-      "match_id": 5,
-      "category": "WAC",
-      "title": "Match 5, Group A • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/th.svg",
-      "src_2": "https://flagcdn.com/pk.svg ",
-      "team_1": "Thailand Women",
-      "team_2": "Pakistan Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 01-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
-      "match_id": 6,
-      "category": "WAC",
-      "title": "Match 6, Group B • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/lk.svg ",
-      "src_2": "https://flagcdn.com/id.svg ",
-      "team_1": "Sri Lanka Women",
-      "team_2": "Indonesia Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 02-09-2026",
-      "durationHours": 4,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html "
-    },
-
-    {
-      "match_id": 7,
-      "title": "Match 7, Group A • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/cn.svg",
-      "team_1": "India Women",
-      "team_2": "Hong Kong, China Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 03-09-2026",
-      "durationHours": 4,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
-      "match_id": 8,
-      "category": "WAC",
-      "title": "Match 8, Group B • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/ae.svg",
-      "src_2": "https://flagcdn.com/id.svg",
-      "team_1": "United Arab Emirates Women",
-      "team_2": "Indonesia Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 04-09-2026",
-      "durationHours": 4,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-
-    {
-      "match_id": 9,
-      "category": "WAC",
-      "title": "Match 9, Group A • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/pk.svg",
-      "team_1": "India Women",
-      "team_2": "Pakistan Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 05-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
-      "match_id": 10,
-      "category": "WAC",
-      "title": "Match 10, Group B • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/lk.svg",
-      "src_2": "https://flagcdn.com/bd.svg",
-      "team_1": "Sri Lanka Women",
-      "team_2": "Bangladesh Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 06-09-2026",
-      "durationHours": 4,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
-      "match_id": 11,
-      "category": "WAC",
-      "title": "11th Match, Group A • Birmingham, Edgbaston",
-      "src": "https://flagcdn.com/cn.svg",
-      "src_2": "https://flagcdn.com/pk.svg",
-      "team_1": "Hong Kong, China Women",
-      "team_2": "Pakistan Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 07-09-2026",
-      "durationHours": 4,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
-      "match_id": 12,
-      "category": "WAC",
-      "title": "Match 12, Group B • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/bd.svg",
-      "src_2": "https://flagcdn.com/ae.svg",
-      "team_1": "Bangladesh Women",
-      "team_2": "United Arab Emirates Women",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 08-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
-      "match_id": 13,
-      "category": "WAC",
-      "title": "Semi Final 1 • Dubai, Dubai International Cricket Stadium",
-      "src": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png",
-      "src_2": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 10-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-
-    {
-      "match_id": 14,
-      "category": "WAC",
-      "title": "Semi Final 2 • Dubai, Dubai International Cricket Stadium",
-      "src": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png",
-      "src_2": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 11-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
-    },
-
-    {
       "match_id": 15,
       "category": "WAC",
       "title": "Final • Dubai, Dubai International Cricket Stadium",
-      "src": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png",
-      "src_2": "https://i.postimg.cc/SQ6GXqM0/1000108988-11zon.png",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "src": "https://flagcdn.com/in.svg",
+      "src_2": "https://flagcdn.com/in.svg",
+      "team_1": "India",
+      "team_2": "Srilanka",
       "status": "UPCOMING",
-      "startTime": "08:00:00 PM 13-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup.html"
+      "startTime": "07:30:00 PM 13-09-2026",
+      "durationHours": 6,
+      "button": "http://cricketlive.wapact.com/page-women-asia-cup-final.html"
     },
     {
       "match_id": 16,
@@ -268,7 +71,7 @@
       "team_1": "India",
       "team_2": "Afganistan",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 13-09-2026",
+      "startTime": "07:30:00 PM 13-09-2026",
       "durationHours": 5,
       "button": "http://cricketlive.wapact.com/page-india-vs-afganistan.html"
     },
@@ -282,7 +85,7 @@
       "team_1": "India",
       "team_2": "Afganistan",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 15-09-2026",
+      "startTime": "07:30:00 PM 15-09-2026",
       "durationHours": 5,
       "button": "http://cricketlive.wapact.com/page-india-vs-afganistan.html"
     },
@@ -296,7 +99,7 @@
       "team_1": "India",
       "team_2": "Afganistan",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 17-09-2026",
+      "startTime": "07:30:00 PM 17-09-2026",
       "durationHours": 5,
       "button": "http://cricketlive.wapact.com/page-india-vs-afganistan.html"
     },
@@ -306,7 +109,7 @@
       "category": "INDvsWI",
       "title": "1st ODI • Thiruvananthapuram, Greenfield International Stadium",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://i.postimg.cc/76DCG5dr/wi.png",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
@@ -321,7 +124,7 @@
       "category": "INDvsWI",
       "title": "2nd ODI • Guwahati, Barsapara Cricket Stadium",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://i.postimg.cc/76DCG5dr/wi.png",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
@@ -335,7 +138,7 @@
       "category": "INDvsWI",
       "title": "3rd ODI • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://i.postimg.cc/76DCG5dr/wi.png",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
@@ -349,7 +152,7 @@
       "category": "INDvsWI",
       "title": "1st T20I • Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://i.postimg.cc/76DCG5dr/wi.png",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
@@ -363,7 +166,7 @@
       "category": "INDvsWI",
       "title": "2nd T20I • Ranchi, JSCA International Stadium Complex",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://i.postimg.cc/76DCG5dr/wi.png",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
@@ -377,7 +180,7 @@
       "category": "INDvsWI",
       "title": "3rd T20I • Indore, Holkar Stadium",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://i.postimg.cc/76DCG5dr/wi.png",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
@@ -391,7 +194,7 @@
       "category": "INDvsWI",
       "title": "4th T20I • Hyderabad, Rajiv Gandhi International Stadium",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://i.postimg.cc/76DCG5dr/wi.png",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
@@ -404,7 +207,7 @@
       "category": "INDvsWI",
       "title": "5th T20I • Bengaluru, M.Chinnaswamy Stadium",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://i.postimg.cc/76DCG5dr/wi.png",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
