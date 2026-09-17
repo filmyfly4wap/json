@@ -39,70 +39,11 @@
   
   
   "categories": [
-    
-    { "id": "WAC", "title": "Women Asia Cup 2026" },
-    
-    { "id": "INDvsAF", "title": "India vs Afghanistan" },
-    
     { "id": "INDvsWI", "title": "India vs West Indies" }
-    
   ],
   
   "matches": [
-    {
-      "match_id": 15,
-      "category": "WAC",
-      "title": "Final • Dubai, Dubai International Cricket Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/in.svg",
-      "team_1": "India",
-      "team_2": "Srilanka",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 13-09-2026",
-      "durationHours": 6,
-      "button": "http://cricketlive.wapact.com/page-women-asia-cup-final.html"
-    },
-    {
-      "match_id": 16,
-      "category": "INDvsAF",
-      "title": "1st T20I • Delhi, Arun Jaitley Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/af.svg",
-      "team_1": "India",
-      "team_2": "Afganistan",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 13-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-afganistan.html"
-    },
-
-    {
-      "match_id": 17,
-      "category": "INDvsAF",
-      "title": "2st T20I • Delhi, Arun Jaitley Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/af.svg",
-      "team_1": "India",
-      "team_2": "Afganistan",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 15-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-afganistan.html"
-    },
-
-    {
-      "match_id": 18,
-      "category": "INDvsAF",
-      "title": "3st T20I • Delhi, Arun Jaitley Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/af.svg",
-      "team_1": "India",
-      "team_2": "Afganistan",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 17-09-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-afganistan.html"
-    },
+    
 
     {
       "match_id": 19,
