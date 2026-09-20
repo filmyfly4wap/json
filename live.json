@@ -39,11 +39,27 @@
   
   
   "categories": [
+    { "id": "INDvsJP", "title": "India vs Japan" },
     { "id": "INDvsWI", "title": "India vs West Indies" }
+    { "id": "INDvsNZ", "title": "India vs New Zealand" }
   ],
   
   "matches": [
+
     
+      {
+    "match_id":18,
+    "category": "INDvsJP",
+    "title": " ",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/jp.svg",
+    "team_1": "India",
+    "team_2": "Japan",
+    "status": "UPCOMING",
+    "startTime": "09:30:00 AM 22-09-2026",
+    "durationHours": 5,
+    "button": "http://cricketlive.wapact.com/page-india-vs-japan.html"
+  }
 
     {
       "match_id": 19,
@@ -155,7 +171,175 @@
       "startTime": "07:00:00 PM 17-10-2026",
       "durationHours": 5,
       "button": "http://cricketlive.wapact.com/page-india-vs-west-indies.html"
-    }
+    },
+
+        {
+      "match_id": 27,
+      "category": "INDvsNZ",
+      "title": "1st T20I • Christchurch, Hagley Oval",
+      "src": "https://flagcdn.com/in.svg",
+      "src_2": "https://flagcdn.com/nz.svg",
+      "team_1": "India",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 PM 22-10-2026",
+      "durationHours": 5,
+      "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+    },
+    
+  {
+    "match_id": 28,
+    "category": "INDvsNZ",
+    "title": "2nd T20I • Christchurch, Hagley Oval",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "12:30:00 PM 24-10-2026",
+    "durationHours": 5,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+
+  {
+    "match_id":29,
+    "category": "INDvsNZ",
+    "title": "3rd T20I • Wellington, Sky Stadium",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "12:30:00 PM 27-10-2026",
+    "durationHours": 5,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+
+  {
+    "match_id":30,
+    "category": "INDvsNZ",
+    "title": "4th T20I • Auckland, Eden Park",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "12:30:00 PM 30-10-2026",
+    "durationHours": 5,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+
+  {
+    "match_id":31,
+    "category": "INDvsNZ",
+    "title": "5th T20I • Hamilton, Seddon Park",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "12:30:00 PM 01-11-2026",
+    "durationHours": 5,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+
+  {
+    "match_id":32,
+    "category": "INDvsNZ",
+    "title": "1st ODI • Auckland, Eden Park",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "07:30:00 AM 04-11-2026",
+    "durationHours": 8,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+  {
+    "match_id":33,
+    "category": "INDvsNZ",
+    "title": "2nd ODI • Wellington, Sky Stadium",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "07:30:00 AM 07-11-2026",
+    "durationHours": 8,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+  {
+    "match_id":34,
+    "category": "INDvsNZ",
+    "title": "3rd ODI • Hamilton, Seddon Park",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "07:30:00 AM 10-11-2026",
+    "durationHours": 8,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+
+  {
+    "match_id":35,
+    "category": "INDvsNZ",
+    "title": "4th ODI • Mount Maunganui, Bay Oval",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "07:30:00 AM 13-11-2026",
+    "durationHours": 8,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+
+  {
+    "match_id":36,
+    "category": "INDvsNZ",
+    "title": "5th ODI • Mount Maunganui, Bay Oval",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "07:30:00 AM 15-11-2026",
+    "durationHours": 8,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+
+  {
+    "match_id":37,
+    "category": "INDvsNZ",
+    "title": "1st Test • Wellington, Basin Reserve",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "07:30:00 AM 19-11-2026",
+    "durationHours": 8,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  },
+
+  {
+    "match_id":38,
+    "category": "INDvsNZ",
+    "title": "2nd Test • Christchurch, Hagley Oval",
+    "src": "https://flagcdn.com/in.svg",
+    "src_2": "https://flagcdn.com/nz.svg",
+    "team_1": "India",
+    "team_2": "New Zealand",
+    "status": "UPCOMING",
+    "startTime": "03:30:00 AM 27-11-2026",
+    "durationHours": 8,
+    "button": "http://cricketlive.wapact.com/page-india-vs-new-zealand.html"
+  }
+
+    
     
     
     
