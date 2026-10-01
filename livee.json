@@ -1,6 +1,5 @@
 {
-  "name": " Live Matches",
-  
+  "name": "Live Matches",
   "slider": [
     {
       "img": "https://i.postimg.cc/g2YDpbjK/ind.png",
@@ -8,81 +7,58 @@
       "startTime": "12:30:00 PM 22-02-2026",
       "durationHours": 5
     },
-    
     {
       "img": "https://i.postimg.cc/G2w9ckwr/INDvs-NZ.png",
       "link": "https://cricketlive.site/page-final-t20wc.html",
       "startTime": "6:30:00 PM 08-03-2026",
       "durationHours": 8
     },
-    
-    
-    
-    
-    
-    
     {
-      "img": " https://i.postimg.cc/5yBRM5Vg/movie.png",
-      "link": " https://filmyfly4wap.site/page-movie.html"
-      
+      "img": "https://i.postimg.cc/5yBRM5Vg/movie.png",
+      "link": "https://filmyfly4wap.site/page-movie.html"
     },
-    
     {
-      
       "img": "https://i.postimg.cc/W3CsyVyp/Whats-App.png",
-      "link": " https://whatsapp.com/channel/0029VbBopnM4Y9lqDP2PsL08"
-      
+      "link": "https://whatsapp.com/channel/0029VbBopnM4Y9lqDP2PsL08"
     }
   ],
-  
-  
-  
-  
   "categories": [
-    
-    { "id": "INDvsWI", "title": "World Cup 2027" },
-    
+    { "id": "WC2027", "title": "World Cup 2027" },
     { "id": "INDvsAF", "title": "India vs Afghanistan" },
-    
     { "id": "INDvsWI", "title": "India vs West Indies" }
-    
   ],
-  
   "matches": [
-          
-  {
-  "match_id": 18,
-  "category": "INDvsWI",
-  "title": "3rd ODI • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-  "src": "https://flagcdn.com/in.svg",
-  "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
-  "team_1": "India",
-  "team_2": "West Indies",
-  "status": "LIVE",
-  "startTime": "11:30:00 AM 01-10-2026",
-  "durationHours": 5,
-  "streams": [
     {
-      "language": "Hindi",
-      "label": "Hindi Channel",
-      "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1790866840~exp=1790888440~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=0ca60bc2670e0108c3e715586586f4c93bf222dac5a5a72d5325e5b7e0e603e2",
-      "cookie_expire": "1790888440",
-      "key_id": "a3ed8dc0e0cb5d238da80ee0a85bd2e1",
-      "key": "67a96992e6406606f3480ab58d7f540c"
-    },
-    {
-      "language": "English",
-      "label": "English Channel",
-      "stream_url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1790862461~exp=1790884061~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=b2d427c7cb0be4a9808a2b8a241fabee789d13d43d83d42c41b9a8c35c15040a",
-      "cookie_expire": "1790884061",
-      "key_id": "9457eb90129456fa8ea95e10ba4ac51e",
-      "key": "e620a970cea474c491ac78ae71a4d764"
+      "match_id": 18,
+      "category": "INDvsWI",
+      "title": "3rd ODI • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+      "src": "https://flagcdn.com/in.svg",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
+      "team_1": "India",
+      "team_2": "West Indies",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 01-10-2026",
+      "durationHours": 5,
+      "streams": [
+        {
+          "language": "Hindi",
+          "label": "Hindi Channel",
+          "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd",
+          "cookie": "__hdnea__=st=1790866840~exp=1790888440~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=0ca60bc2670e0108c3e715586586f4c93bf222dac5a5a72d5325e5b7e0e603e2",
+          "cookie_expire": "1790888440",
+          "key_id": "a3ed8dc0e0cb5d238da80ee0a85bd2e1",
+          "key": "67a96992e6406606f3480ab58d7f540c"
+        },
+        {
+          "language": "English",
+          "label": "English Channel",
+          "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
+          "cookie": "__hdnea__=st=1790862461~exp=1790884061~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=b2d427c7cb0be4a9808a2b8a241fabee789d13d43d83d42c41b9a8c35c15040a",
+          "cookie_expire": "1790884061",
+          "key_id": "9457eb90129456fa8ea95e10ba4ac51e",
+          "key": "e620a970cea474c491ac78ae71a4d764"
+        }
+      ]
     }
-  ]
-}
-
-
   ]
 }
