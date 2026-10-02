@@ -43,12 +43,12 @@
         {
           "language": "Hindi",
           "label": "Hindi Channel",
-          "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1790888466~exp=1790910066~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=8e95e7150bec3b5d068842e8f6e29e0e2f53b993672349f2f4d9ccb242a45cc0",
-      "cookie_expire": 1790910066,
-      "cookie_expire_ist": "02 Oct 2026, 08:31:06 AM IST",
-      "key_id": "a3ed8dc0e0cb5d238da80ee0a85bd2e1",
-      "key": "67a96992e6406606f3480ab58d7f540c"
+          "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1790906411~exp=1790928011~acl=/*~hmac=31263b34ffec0549ad44483565aa4e444550fda96782f54b235e8d40020a5dd3",
+      "cookie_expire": 1790928011,
+      "cookie_expire_ist": "02 Oct 2026, 01:30:11 PM IST",
+      "key_id": "3394be91407c5fe99d784d2f2d6d4a12",
+      "key": "58665e1df41f9f22ed73c56384bb3f51"
         },
         {
           "language": "English",
