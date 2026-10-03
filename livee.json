@@ -76,6 +76,19 @@
       "status": "LIVE",
       "startTime": "06:00:00 AM 03-10-2026",
       "durationHours": 10
+    },
+       {
+      "match_id": 19,
+      "category": "INDvsWI",
+      "title": "1st T20I • Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+      "src": "https://flagcdn.com/in.svg",
+      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
+      "team_1": "India",
+      "team_2": "West Indies",
+      "status": "UPCOMING",
+      "startTime": "07:00:00 PM 06-10-2026",
+      "durationHours": 5,
+      "button": "http://cricketlive.wapact.com/page-india-vs-west-indies.html"
     }
   ]
 }
