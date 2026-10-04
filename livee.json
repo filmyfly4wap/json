@@ -39,21 +39,21 @@
           "language": "Hindi",
           "label": "Ten 3 HD",
           "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd",
-          "cookie": "__hdnea__=st=1790946004~exp=1790967604~acl=/*~hmac=07e0762bffbdecb365311c7a959a557797ecb28548736c5dfd22e8815c810f02",
-          "cookie_expire": 1790967604,
-          "cookie_expire_ist": "03 Oct 2026, 12:30:04 AM IST",
-          "key_id": "68318f7c97c55ba6ab8d0398a88fed3e",
-          "key": "d312fb3325b4eb9462b4a0d2b6794adf"
+      "cookie": "__hdnea__=st=1791079203~exp=1791100803~acl=/*~hmac=99f073c94cb7bca02894153c484c06431ca07d45f8ac5b54cdc6f069c19c9b0f",
+      "cookie_expire": 1791100803,
+      "cookie_expire_ist": "04 Oct 2026, 01:30:03 PM IST",
+      "key_id": "68318f7c97c55ba6ab8d0398a88fed3e",
+      "key": "d312fb3325b4eb9462b4a0d2b6794adf"
         },
         {
           "language": "English",
           "label": "Ten 1 HD",
           "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
-          "cookie": "__hdnea__=st=1790946004~exp=1790967604~acl=/*~hmac=07e0762bffbdecb365311c7a959a557797ecb28548736c5dfd22e8815c810f02",
-          "cookie_expire": 1790967604,
-          "cookie_expire_ist": "03 Oct 2026, 12:30:04 AM IST",
-          "key_id": "3394be91407c5fe99d784d2f2d6d4a12",
-          "key": "58665e1df41f9f22ed73c56384bb3f51"
+      "cookie": "__hdnea__=st=1791079203~exp=1791100803~acl=/*~hmac=99f073c94cb7bca02894153c484c06431ca07d45f8ac5b54cdc6f069c19c9b0f",
+      "cookie_expire": 1791100803,
+      "cookie_expire_ist": "04 Oct 2026, 01:30:03 PM IST",
+      "key_id": "3394be91407c5fe99d784d2f2d6d4a12",
+      "key": "58665e1df41f9f22ed73c56384bb3f51"
         },
         {
           "language": "Server 2",
@@ -74,7 +74,7 @@
       "team_1": "India",
       "team_2": "West Indies",
       "status": "LIVE",
-      "startTime": "06:00:00 AM 04-10-2026",
+      "startTime": "07:30:00 AM 04-10-2026",
       "durationHours": 10
     },
        {
