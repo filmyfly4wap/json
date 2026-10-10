@@ -26,54 +26,68 @@
 "img": "https://i.postimg.cc/W3CsyVyp/Whats-App.png",
   "link": "https://whatsapp.com/channel/0029VbBopnM4Y9lqDP2PsL08"
 
-}
+}],
 
-],
+
+"defaultId": "hindi",
+"notice": "⚠️ Server slow hone par page refresh karein. Latest updates ke liye WhatsApp Group Join karein.",
+"channels": [
+    {
+      "id": "hindi",
+      "stream": "https://filmyfly4wap.github.io/play/?id=H1HD",
+      "name": "India vs West Indies",
+      "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
+      "category": "Cricket",
+      "language": "Hindi",
+      "label": "Hindi Live Now"
+    },
+    
+    {
+      "id": "English",
+      "stream": "https://filmyfly4wap.github.io/play/?id=E1HD",
+      "name": "India vs West Indies",
+      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
+      "category": "Cricket",
+      "language": "English",
+      "label": "English Live Now"
+    },
+    {
+      "id": "Tamil",
+      "stream": "https://filmyfly4wap.github.io/play/?id=S2HD",
+      "name": "India vs Japan",
+      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
+      "category": "Cricket",
+      "language": "Telugu",
+      "label": "Tamil Live Now"
+    },
+    
+    {
+      "id": "Telugu",
+      "stream": "https://filmyfly4wap.github.io/play/?id=TE2HD",
+      "name": "India vs West Indies",
+      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
+      "category": "Cricket",
+      "language": "Telugu",
+      "label": "Telugu Live Now"
+    },
+    {
+      "id": "Kannada",
+      "stream": "https://filmyfly4wap.github.io/play/?id=KA2SD",
+      "name": "India vs West Indies",
+      "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
+      "category": "Cricket",
+      "language": "Kannada",
+      "label": "Kannada Live Now"
+    }
+  ],
+
+
+
+  
 
 "categories": [{
     "id": "INDvsWI",
     "title": "India vs West Indies",
-    "streams": [{
-        "language": "Hindi",
-        "label": "Hindi Channel",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-        "cookie": "__hdnea__=st=1791612744~exp=1791634344~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=07f91f8748ad5efd857092ab022804228d46396529de8672cf62aaef6122d016",
-      "cookie_expire": 1791634344,
-        "cookie_expire_ist": "07 Oct 2026, 01:50:58 AM IST",
-        "key_id": null,
-        "key": null,
-        "Keys": [
-          "a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9",
-          "dd2fa604afc45e528f8a2283bf3cb628:bf01e6e8ff74797fb5215fead779e8b9",
-          "209975f6753d5de1ac26d604dace5313:1c54093eff75aeeccd30ebbc53c0e5a3",
-          "7bdccdb3dd015c37a0c3bd70675c8e4c:6f1b59376090d1f7ce33cbd264e87c36",
-          "11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f"
-        ]
-      },
-      
-      {
-        "language": "English",
-        "label": "English Channel",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-        "cookie": "__hdnea__=st=1791612669~exp=1791634269~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=e5e0326f3a73eac8ea0788ffc28cd4da46ace48f697e81a919df470049d7fd20",
-      "cookie_expire": 1791634269,
-        "cookie_expire_ist": "07 Oct 2026, 02:19:27 AM IST",
-        "key_id": null,
-        "key": null,
-        "keys": [
-          "45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797",
-          "bf95222d9be85d85a91281e796e99481:bc932276031b3e63758cf67b147c3557",
-          "f217e9fe133e5b948c323abef1e39b47:63640dc4430d14003def0c97a2dbab4d",
-          "eda3132244745c10920b01536bc8a75b:2b5f8bdba279032943a040078bb22b35",
-          "06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba"
-        ]
-      },
-      {
-        "language": "Hindi",
-        "label": "Hindi Channel",
-        "stream_url": "https://filmyfly4wap.github.io/play/?id=H1HD"
-      }
-    ]
   },
   
   {
