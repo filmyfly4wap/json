@@ -2,9 +2,9 @@
   "name": "Live Matches",
   "slider": [
     {
-      "img": "https://i.postimg.cc/50k6BgfJ/ind-vs-afg.png",
-      "link": "http://cricketlive.wapact.com/page-india-vs-afganistan.html",
-      "startTime": "07:00:00 PM 13-09-2026",
+      "img": "https://pix2.b442d6eefbd6173bad7ee5bde6cd31e8.com/uploads/2026-10-24/img_6adc50f2708425.99854992.png",
+      "link": "India-vs-newzealand.html",
+      "startTime": "12:00:00 PM 24-10-2026",
       "durationHours": 5
     },
     {
@@ -27,8 +27,8 @@
   "channels": [
     {
       "id": "hindi",
-      "stream": "https://filmyfly4wap.github.io/play/?id=H1HD",
-      "name": "India vs West Indies",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=STEN3",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
       "language": "Hindi",
@@ -36,8 +36,8 @@
     },
     {
       "id": "English",
-      "stream": "https://filmyfly4wap.github.io/play/?id=E1HD",
-      "name": "India vs West Indies",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=STEN5",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "English",
@@ -45,8 +45,8 @@
     },
     {
       "id": "Tamil",
-      "stream": "https://filmyfly4wap.github.io/play/?id=S2HD",
-      "name": "India vs West Indies",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=STENT",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "Tamil",
@@ -54,8 +54,8 @@
     },
     {
       "id": "Telugu",
-      "stream": "https://filmyfly4wap.github.io/play/?id=TE2HD",
-      "name": "India vs West Indies",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=STENTU",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "Telugu",
@@ -63,8 +63,8 @@
     },
     {
       "id": "Kannada",
-      "stream": "https://filmyfly4wap.github.io/play/?id=KA2SD",
-      "name": "India vs West Indies",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=KA2SD",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "Kannada",
@@ -72,10 +72,7 @@
     }
   ],
   "categories": [
-    {
-      "id": "INDvsWI",
-      "title": "India vs West Indies"
-    },
+    
     {
       "id": "INDvsNZ",
       "title": "India vs New Zealand"
